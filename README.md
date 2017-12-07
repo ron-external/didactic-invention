@@ -1,2 +1,2 @@
 # didactic-invention
-This is a quick learning thing
+This is a quick learning thing for now
